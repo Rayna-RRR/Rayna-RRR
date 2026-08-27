@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/profile-hero.svg" width="100%" alt="Rayna — AI 产品、Agent 工作流与效果评测" />
+  <img src="assets/profile-hero.png" width="100%" alt="Rayna — AI 产品、Agent 工作流与效果评测" />
 </p>
 
 <p align="center">
