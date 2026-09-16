@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://feedback-triage-agent.vercel.app/"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
   <a href="mailto:rayna162002@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
   <img alt="2027 Graduate" src="https://img.shields.io/badge/2027_Graduate-B8A06A?style=flat-square&amp;logoColor=white" />
   <img alt="Open to Shenzhen and Hong Kong" src="https://img.shields.io/badge/Open_to-Shenzhen_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
@@ -37,7 +37,7 @@ This is private industry work. No proprietary code, client documents, or interna
 
 ### [Release Feedback Risk Workbench](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[Live demo](https://feedback-triage-agent.vercel.app/)** · Personal project
+**[Live demo](https://feedback-triage-agent.vercel.app/demo)** · Personal project
 
 An evidence-first workflow for monitoring post-release feedback across 24–72 hour windows. It connects issue clustering, original evidence, confidence, human review, ownership, and follow-up validation. The public version is a workflow demo, not a production deployment.
 
@@ -79,4 +79,4 @@ Open to 2027 graduate roles in **AI Product Management**, **Agent / Workflow pro
 
 ## Contact
 
-[Email](mailto:rayna162002@163.com) · [GitHub](https://github.com/Rayna-RRR) · [Release Feedback Risk Workbench](https://feedback-triage-agent.vercel.app/)
+[Email](mailto:rayna162002@163.com) · [GitHub](https://github.com/Rayna-RRR) · [Release Feedback Risk Workbench](https://feedback-triage-agent.vercel.app/demo)
