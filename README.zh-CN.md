@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://feedback-triage-agent.vercel.app/"><img alt="在线 Demo" src="https://img.shields.io/badge/Live_Demo-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-  <a href="mailto:rayna162002@163.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
-  <img alt="2027 届" src="https://img.shields.io/badge/2027_Graduate-B8A06A?style=flat-square&amp;logoColor=white" />
-  <img alt="深圳与香港机会" src="https://img.shields.io/badge/Open_to-Shenzhen_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md"><img alt="使用教程" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="线上临时预览" src="https://img.shields.io/badge/Temporary_Preview-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="mailto:raynaren86@gmail.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
+  <img alt="2027 届求职" src="https://img.shields.io/badge/2027_Graduate_Recruitment-B8A06A?style=flat-square&amp;logoColor=white" />
+  <img alt="深圳优先，上海与香港可考虑" src="https://img.shields.io/badge/Shenzhen_first-Shanghai_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
 </p>
 
 <p align="center"><a href="README.md">English</a> · <strong>简体中文</strong></p>
@@ -17,7 +18,7 @@
 
 目前的实践集中在长文档 Agent 与 AI 输出质量治理。我在意模型能否生成结果，也在意结论能否回到原始证据、能否由人工复核，以及证据不足时能否安全暴露失败。
 
-现于香港浸会大学攻读人工智能与数字媒体理学硕士，具备数据科学背景。
+已于 2026 年 10 月完成香港浸会大学人工智能与数字媒体理学硕士学业，具备数据科学背景。
 
 ## 我关注的方向
 
@@ -29,7 +30,9 @@
 
 ### AI 产品实习 · 招投标智能体
 
-参与长文本、高风险招投标文档的 AI 工作流与输出质量治理，包括拆分规则、模型与程序职责，设计证据和复核边界，核查 badcase，并通过可追溯产物与质量门禁治理长文档大纲生成。其中参与迭代的高风险条款识别链路已合入产品主流程。
+**深圳笃威尔数字技术有限公司 · 2026.06–2026.09**
+
+曾参与长文本、高风险招投标文档的 AI 工作流与输出质量治理，包括拆分规则、模型与程序职责，设计证据和复核边界，核查 badcase，并通过可追溯产物与质量门禁治理长文档大纲生成。其中参与迭代的高风险条款识别链路已合入产品主流程。
 
 该部分属于企业内部项目；本主页不会公开公司代码、客户文档或内部数据。
 
@@ -37,9 +40,9 @@
 
 ### [AI 发版反馈风险工作台](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[在线体验](https://feedback-triage-agent.vercel.app/)** · 个人项目
+**[使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md)** · **[线上临时预览](https://feedback-triage-agent.vercel.app/demo)** · 个人项目
 
-面向产品发版后 24–72 小时的反馈风险发现、复核与回看，将问题簇、原始证据、置信度、人工判断、责任人与后续验证串成一条工作流。公开版本用于演示产品流程，不等于企业生产部署。
+面向产品发版后 24–72 小时的反馈风险发现、复核与回看，将问题簇、原始证据、置信度、人工判断、责任人与后续验证串成一条工作流。完整流程在本地操作，任务以 JSON 文件保存。线上为临时预览：创建或跳转后也可能无法读取任务，不保证保存。[PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) 已通过本地验证与 CI，尚未完成云端验收、合并或上线；云数据库配置和生产发布继续暂停。
 
 ### [AI 应用用户反馈分析](https://github.com/Rayna-RRR/ai-app-feedback-analysis)
 
@@ -53,12 +56,12 @@
 
 把粗略项目想法整理为 Agent 可执行的项目简报、仓库规则、任务提示词、可复用 Skill 与运行日志的本地 CLI，重点提升 AI 辅助开发中的上下文清晰度、边界与可复现性。
 
-## 正在探索
+## 暂停探索
 
-- **Solar Sync：**探索鼠标、键盘与可选摄像头信号如何进入同一确定性控制闭环的具身交互原型。
-- **情绪小怪物：**仍处于问题探索与 MVP 定义阶段的情绪交互概念。
+- **Solar Sync（已暂停）：**探索鼠标、键盘与可选摄像头信号如何进入同一确定性控制闭环的具身交互原型。
+- **情绪小怪物（已暂停）：**停留在问题探索与 MVP 定义阶段的情绪交互概念。
 
-两者均为在建探索，当前不描述为已完成或已验证产品。
+两项探索均已暂停，尚未完成产品验证。
 
 ## 产品与技术雷达
 
@@ -71,12 +74,12 @@
 
 ## 教育经历
 
-- **香港浸会大学｜人工智能与数字媒体｜理学硕士**，2025–2026
+- **香港浸会大学｜人工智能与数字媒体｜理学硕士**，2025.09–2026.10；正式毕业日期：2026.10.31。
 
 ## 当前方向
 
-关注 2027 届 **AI 产品经理、Agent / Workflow 产品、AI 效果评测与质量闭环**正式岗位；深圳为第一优先城市，同时关注香港机会。
+关注 2027 届正式岗位：**AI 效果评测与应用质量**（反馈分析、badcase 归因与回归验证），同时投递 **AI 产品经理 / Agent 与 Workflow 产品**方向。深圳优先，上海及香港可考虑。
 
 ## 联系方式
 
-[邮箱](mailto:rayna162002@163.com) · [GitHub](https://github.com/Rayna-RRR) · [AI 发版反馈风险工作台](https://feedback-triage-agent.vercel.app/)
+[邮箱](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [工作台使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md) · [线上临时预览](https://feedback-triage-agent.vercel.app/demo)

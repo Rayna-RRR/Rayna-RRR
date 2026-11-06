@@ -3,10 +3,11 @@
 </p>
 
 <p align="center">
-  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
-  <a href="mailto:rayna162002@163.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
-  <img alt="2027 Graduate" src="https://img.shields.io/badge/2027_Graduate-B8A06A?style=flat-square&amp;logoColor=white" />
-  <img alt="Open to Shenzhen and Hong Kong" src="https://img.shields.io/badge/Open_to-Shenzhen_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md"><img alt="Usage Tutorial" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="Temporary Preview" src="https://img.shields.io/badge/Temporary_Preview-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="mailto:raynaren86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
+  <img alt="2027 Graduate Recruitment" src="https://img.shields.io/badge/2027_Graduate_Recruitment-B8A06A?style=flat-square&amp;logoColor=white" />
+  <img alt="Shenzhen first; open to Shanghai and Hong Kong" src="https://img.shields.io/badge/Shenzhen_first-Shanghai_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
 </p>
 
 <p align="center"><strong>English</strong> · <a href="README.zh-CN.md">简体中文</a></p>
@@ -17,7 +18,7 @@ I build AI product workflows for complex, unstructured inputs—turning document
 
 My current work focuses on AI agents for long-document workflows and output-quality governance. I care not only about whether a model can produce an answer, but whether the result can be traced to evidence, reviewed by a human, and safely rejected when its support is insufficient.
 
-I am pursuing an MSc in Artificial Intelligence and Digital Media at Hong Kong Baptist University, with a background in data science.
+I completed my MSc in Artificial Intelligence and Digital Media at Hong Kong Baptist University in October 2026, with a background in data science.
 
 ## What I Work On
 
@@ -29,7 +30,9 @@ I am pursuing an MSc in Artificial Intelligence and Digital Media at Hong Kong B
 
 ### AI product internship · bid-document agent
 
-I work on AI workflows for long, high-stakes bid documents. My contributions include decomposing rule/model/program responsibilities, designing evidence and review boundaries, investigating badcases, and governing long-document outline generation with traceable artifacts and quality gates. A high-risk clause detection workflow I helped iterate was integrated into the product's main process.
+**Shenzhen Dowell Digital Technology Co., Ltd. (深圳笃威尔数字技术有限公司) · 2026.06–2026.09**
+
+I worked on AI workflows for long, high-stakes bid documents. My contributions included decomposing rule/model/program responsibilities, designing evidence and review boundaries, investigating badcases, and governing long-document outline generation with traceable artifacts and quality gates. A high-risk clause detection workflow I helped iterate was integrated into the product's main process.
 
 This is private industry work. No proprietary code, client documents, or internal datasets are published here.
 
@@ -37,9 +40,9 @@ This is private industry work. No proprietary code, client documents, or interna
 
 ### [Release Feedback Risk Workbench](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[Live demo](https://feedback-triage-agent.vercel.app/demo)** · Personal project
+**[Usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md)** · **[Temporary online preview](https://feedback-triage-agent.vercel.app/demo)** · Personal project
 
-An evidence-first workflow for monitoring post-release feedback across 24–72 hour windows. It connects issue clustering, original evidence, confidence, human review, ownership, and follow-up validation. The public version is a workflow demo, not a production deployment.
+An evidence-first workflow for monitoring post-release feedback across 24–72 hour windows. It connects issue clustering, original evidence, confidence, human review, ownership, and follow-up validation. The full workflow runs locally and saves tasks as JSON files. The online preview uses temporary storage: a task may be unreadable even immediately after creation or navigation, and saving is not guaranteed. [PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) passed local validation and CI; cloud acceptance, merge, and rollout remain pending. Cloud database setup and production deployment are paused.
 
 ### [AI App Feedback Analysis](https://github.com/Rayna-RRR/ai-app-feedback-analysis)
 
@@ -53,12 +56,12 @@ A bilingual, copyable catalog of bad-to-fixed examples for `AGENTS.md`, `CLAUDE.
 
 A local-first CLI for turning rough project ideas into agent-ready briefs, repository rules, task prompts, reusable skills, and run logs. It focuses on clearer context and safer, repeatable AI-assisted development workflows.
 
-## Now Building
+## Paused Explorations
 
-- **Solar Sync:** an embodied interaction prototype exploring how mouse, keyboard, and optional camera signals can share one deterministic control loop.
-- **情绪小怪物:** an early-stage emotional interaction concept currently in problem discovery and MVP definition.
+- **Solar Sync — paused:** an embodied interaction prototype exploring how mouse, keyboard, and optional camera signals can share one deterministic control loop.
+- **情绪小怪物 — paused:** an early-stage emotional interaction concept; work stopped at problem discovery and MVP definition.
 
-These are active explorations, not completed or validated products yet.
+Both explorations are paused and remain unvalidated.
 
 ## Product & Technical Radar
 
@@ -71,12 +74,12 @@ These are active explorations, not completed or validated products yet.
 
 ## Education
 
-- **MSc, Artificial Intelligence and Digital Media** — Hong Kong Baptist University, 2025–2026
+- **MSc, Artificial Intelligence and Digital Media** — Hong Kong Baptist University, 2025.09–2026.10; official graduation date: 2026.10.31.
 
 ## Current Direction
 
-Open to 2027 graduate roles in **AI Product Management**, **Agent / Workflow products**, and **AI evaluation or quality loops**—with Shenzhen as my primary target and Hong Kong also in scope.
+Seeking full-time roles in the 2027 graduate recruitment cycle: **AI evaluation and application quality** (feedback analysis, badcase analysis, and regression validation), alongside **AI Product Management / Agent and Workflow products**. Shenzhen is my first choice; Shanghai and Hong Kong are also in scope.
 
 ## Contact
 
-[Email](mailto:rayna162002@163.com) · [GitHub](https://github.com/Rayna-RRR) · [Release Feedback Risk Workbench](https://feedback-triage-agent.vercel.app/demo)
+[Email](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [Workbench usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md) · [Temporary online preview](https://feedback-triage-agent.vercel.app/demo)
