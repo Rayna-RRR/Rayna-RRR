@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md"><img alt="使用教程" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
-  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="线上临时预览" src="https://img.shields.io/badge/Temporary_Preview-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md"><img alt="使用教程" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent#%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88"><img alt="项目截图" src="https://img.shields.io/badge/Project_Screenshots-2A6B8A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:raynaren86@gmail.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
   <img alt="2027 届求职" src="https://img.shields.io/badge/2027_Graduate_Recruitment-B8A06A?style=flat-square&amp;logoColor=white" />
   <img alt="深圳优先，上海与香港可考虑" src="https://img.shields.io/badge/Shenzhen_first-Shanghai_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
@@ -40,7 +40,7 @@
 
 ### [AI 发版反馈风险工作台](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md)** · **[线上临时预览](https://feedback-triage-agent.vercel.app/demo)** · 个人项目
+**[使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)** · **[线上预览（中国大陆网络环境可能无法访问）](https://feedback-triage-agent.vercel.app/demo)** · 个人项目
 
 面向产品发版后 24–72 小时的反馈风险发现、复核与回看，将问题簇、原始证据、置信度、人工判断、责任人与后续验证串成一条工作流。完整流程在本地操作，任务以 JSON 文件保存。线上为临时预览：创建或跳转后也可能无法读取任务，不保证保存。[PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) 已通过本地验证与 CI，尚未完成云端验收、合并或上线；云数据库配置和生产发布继续暂停。
 
@@ -82,4 +82,4 @@
 
 ## 联系方式
 
-[邮箱](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [工作台使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md) · [线上临时预览](https://feedback-triage-agent.vercel.app/demo)
+[邮箱](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [工作台使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)

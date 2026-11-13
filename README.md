@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md"><img alt="Usage Tutorial" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
-  <a href="https://feedback-triage-agent.vercel.app/demo"><img alt="Temporary Preview" src="https://img.shields.io/badge/Temporary_Preview-2A6B8A?style=flat-square&amp;logo=vercel&amp;logoColor=white" /></a>
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md"><img alt="Usage Tutorial" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
+  <a href="https://github.com/Rayna-RRR/feedback-triage-agent#%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88"><img alt="Project Screenshots" src="https://img.shields.io/badge/Project_Screenshots-2A6B8A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:raynaren86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
   <img alt="2027 Graduate Recruitment" src="https://img.shields.io/badge/2027_Graduate_Recruitment-B8A06A?style=flat-square&amp;logoColor=white" />
   <img alt="Shenzhen first; open to Shanghai and Hong Kong" src="https://img.shields.io/badge/Shenzhen_first-Shanghai_%2F_Hong_Kong-3F7F78?style=flat-square&amp;logo=googlemaps&amp;logoColor=white" />
@@ -40,7 +40,7 @@ This is private industry work. No proprietary code, client documents, or interna
 
 ### [Release Feedback Risk Workbench](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[Usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md)** · **[Temporary online preview](https://feedback-triage-agent.vercel.app/demo)** · Personal project
+**[Usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)** · **[Online preview (may be unavailable in mainland China)](https://feedback-triage-agent.vercel.app/demo)** · Personal project
 
 An evidence-first workflow for monitoring post-release feedback across 24–72 hour windows. It connects issue clustering, original evidence, confidence, human review, ownership, and follow-up validation. The full workflow runs locally and saves tasks as JSON files. The online preview uses temporary storage: a task may be unreadable even immediately after creation or navigation, and saving is not guaranteed. [PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) passed local validation and CI; cloud acceptance, merge, and rollout remain pending. Cloud database setup and production deployment are paused.
 
@@ -82,4 +82,4 @@ Seeking full-time roles in the 2027 graduate recruitment cycle: **AI evaluation 
 
 ## Contact
 
-[Email](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [Workbench usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/0397271159926597a01b1fff5b640c76bb369090/docs/usage.md) · [Temporary online preview](https://feedback-triage-agent.vercel.app/demo)
+[Email](mailto:raynaren86@gmail.com) · [GitHub](https://github.com/Rayna-RRR) · [Workbench usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)
