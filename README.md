@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rayna-release-feedback-workbench.netlify.app/"><img alt="Workbench Static Demo" src="https://img.shields.io/badge/Workbench_Demo-2A6B8A?style=flat-square&amp;logo=netlify&amp;logoColor=white" /></a>
   <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md"><img alt="Usage Tutorial" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
   <a href="https://github.com/Rayna-RRR/feedback-triage-agent#%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88"><img alt="Project Screenshots" src="https://img.shields.io/badge/Project_Screenshots-2A6B8A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:raynaren86@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
@@ -40,9 +41,11 @@ This is private industry work. No proprietary code, client documents, or interna
 
 ### [Release Feedback Risk Workbench](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[Usage tutorial](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)** · **[Online preview (may be unavailable in mainland China)](https://feedback-triage-agent.vercel.app/demo)** · Personal project
+**[Interactive Netlify demo](https://rayna-release-feedback-workbench.netlify.app/)** · [Repository](https://github.com/Rayna-RRR/feedback-triage-agent) · [Local setup](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md) · Personal project
 
-An evidence-first workflow for monitoring post-release feedback across 24–72 hour windows. It connects issue clustering, original evidence, confidence, human review, ownership, and follow-up validation. The full workflow runs locally and saves tasks as JSON files. The online preview uses temporary storage: a task may be unreadable even immediately after creation or navigation, and saving is not guaranteed. [PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) passed local validation and CI; cloud acceptance, merge, and rollout remain pending. Cloud database setup and production deployment are paused.
+An evidence-first workflow for monitoring feedback in the 24–72 hours after a release. The static demo uses pre-generated acceptance fixtures to show the risk overview, issue clusters, original evidence, review previews, and follow-up window comparisons. Task creation and server-side CSV import are unavailable in the demo. Review previews are limited to the current page and clear on reload.
+
+The full Python/FastAPI workbench runs locally and stores tasks as JSON files. The existing [Vercel preview](https://feedback-triage-agent.vercel.app/demo) uses temporary storage and may be unavailable in mainland China. The [PostgreSQL PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) remains unmerged, and the cloud database has yet to complete acceptance testing.
 
 ### [AI App Feedback Analysis](https://github.com/Rayna-RRR/ai-app-feedback-analysis)
 
