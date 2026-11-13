@@ -3,6 +3,7 @@
 </p>
 
 <p align="center">
+  <a href="https://rayna-release-feedback-workbench.netlify.app/"><img alt="工作台静态演示" src="https://img.shields.io/badge/Workbench_Demo-2A6B8A?style=flat-square&amp;logo=netlify&amp;logoColor=white" /></a>
   <a href="https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md"><img alt="使用教程" src="https://img.shields.io/badge/Usage_Tutorial-2A6B8A?style=flat-square&amp;logo=readthedocs&amp;logoColor=white" /></a>
   <a href="https://github.com/Rayna-RRR/feedback-triage-agent#%E7%95%8C%E9%9D%A2%E9%A2%84%E8%A7%88"><img alt="项目截图" src="https://img.shields.io/badge/Project_Screenshots-2A6B8A?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
   <a href="mailto:raynaren86@gmail.com"><img alt="邮箱" src="https://img.shields.io/badge/Email-1A3A4A?style=flat-square&amp;logo=maildotru&amp;logoColor=white" /></a>
@@ -40,9 +41,11 @@
 
 ### [AI 发版反馈风险工作台](https://github.com/Rayna-RRR/feedback-triage-agent)
 
-**[使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md)** · **[线上预览（中国大陆网络环境可能无法访问）](https://feedback-triage-agent.vercel.app/demo)** · 个人项目
+**[Netlify 静态交互演示](https://rayna-release-feedback-workbench.netlify.app/)** · [项目仓库](https://github.com/Rayna-RRR/feedback-triage-agent) · [本地使用教程](https://github.com/Rayna-RRR/feedback-triage-agent/blob/main/docs/usage.md) · 个人项目
 
-面向产品发版后 24–72 小时的反馈风险发现、复核与回看，将问题簇、原始证据、置信度、人工判断、责任人与后续验证串成一条工作流。完整流程在本地操作，任务以 JSON 文件保存。线上为临时预览：创建或跳转后也可能无法读取任务，不保证保存。[PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) 已通过本地验证与 CI，尚未完成云端验收、合并或上线；云数据库配置和生产发布继续暂停。
+面向产品发版后 24–72 小时的反馈风险发现、复核与回看。静态演示使用预生成的验收样例，可查看风险总览、问题簇和原始证据，预览人工复核，并比较后续窗口。任务创建和 CSV 导入表单仅供查看，复核结果仅在当前页面预览，刷新即清除。
+
+完整 Python/FastAPI 工作台可在本地运行，任务保存在本机 JSON 文件中。原有 [Vercel 临时预览](https://feedback-triage-agent.vercel.app/demo) 使用临时存储，中国大陆网络环境可能无法访问。[PostgreSQL PR #14](https://github.com/Rayna-RRR/feedback-triage-agent/pull/14) 尚未合并，云端数据库尚未验收。
 
 ### [AI 应用用户反馈分析](https://github.com/Rayna-RRR/ai-app-feedback-analysis)
 
