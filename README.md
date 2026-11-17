@@ -31,7 +31,7 @@ I completed my MSc in Artificial Intelligence and Digital Media at Hong Kong Bap
 
 ### AI product internship · bid-document agent
 
-**Shenzhen Dowell Digital Technology Co., Ltd. (深圳笃威尔数字技术有限公司) · 2026.06–2026.09**
+**Shenzhen Dowell Digital Technology Co., Ltd. (深圳笃威尔数字技术有限公司) · 2026.07–2026.09**
 
 I worked on AI workflows for long, high-stakes bid documents. My contributions included decomposing rule/model/program responsibilities, designing evidence and review boundaries, investigating badcases, and governing long-document outline generation with traceable artifacts and quality gates. A high-risk clause detection workflow I helped iterate was integrated into the product's main process.
 
@@ -81,7 +81,7 @@ Both explorations are paused and remain unvalidated.
 
 ## Current Direction
 
-Seeking full-time roles in the 2027 graduate recruitment cycle: **AI evaluation and application quality** (feedback analysis, badcase analysis, and regression validation), alongside **AI Product Management / Agent and Workflow products**. Shenzhen is my first choice; Shanghai and Hong Kong are also in scope.
+Seeking full-time roles in the 2027 graduate recruitment cycle across **AI Product Management** and **Product Operations for AI Applications**, with a focus on agent workflows, user feedback, data quality, and acceptance testing. I’m also open to **Data Operations and Data Quality** roles in Hong Kong. Shenzhen is my first choice, and I’m also considering Shanghai and Hong Kong.
 
 ## Contact
 
